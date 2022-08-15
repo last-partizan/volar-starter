@@ -1,0 +1,22 @@
+{
+  "name": "volar-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "next"
+  },
+  "devDependencies": {
+    "vite-plugin-vue-component-preview": "latest",
+    "@vitejs/plugin-vue": "latest",
+    "@volar-plugins/prettyhtml": "latest",
+    "@vue/compiler-sfc": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vite-plugin-inspect": "latest",
+    "vue-tsc": "latest"
+  }
+}
