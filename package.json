@@ -7,16 +7,16 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "next"
+    "vue": "^2.7.8"
   },
   "devDependencies": {
-    "vite-plugin-vue-component-preview": "latest",
     "@vitejs/plugin-vue": "latest",
     "@volar-plugins/prettyhtml": "latest",
     "@vue/compiler-sfc": "latest",
     "typescript": "latest",
     "vite": "latest",
     "vite-plugin-inspect": "latest",
-    "vue-tsc": "latest"
+    "vite-plugin-vue-component-preview": "latest",
+    "vue-tsc": "0.40.1"
   }
 }

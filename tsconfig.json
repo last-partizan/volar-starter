@@ -17,6 +17,7 @@
     ]
   },
   "vueCompilerOptions": {
+    "target": 2.7,
     "plugins": ["./vue-i18n"]
   },
   "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"]
